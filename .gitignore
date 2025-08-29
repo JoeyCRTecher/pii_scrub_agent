@@ -1,1 +1,11 @@
 tmp
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+.cache/
+.pytest_cache/

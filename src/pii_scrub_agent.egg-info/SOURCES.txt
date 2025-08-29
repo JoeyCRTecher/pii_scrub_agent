@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-setup.py
-src/pii_scrub_agent/__init__.py
-src/pii_scrub_agent/paths.py
-src/pii_scrub_agent.egg-info/PKG-INFO
-src/pii_scrub_agent.egg-info/SOURCES.txt
-src/pii_scrub_agent.egg-info/dependency_links.txt
-src/pii_scrub_agent.egg-info/top_level.txt
